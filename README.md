@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @BlueChinchompa
+Hello I am BlueChinchompa
 
-I am an idiot that is attempting to code something someday
-
-Currently I am learning C++ and I have started messing around in the [RayLib](https://www.raylib.com/) library!
+I only use GitHub if I want to contribute to a project thats only on GitHub. For my own stuff I use [Codeberg](https://codeberg.org/BlueChinchompa).
